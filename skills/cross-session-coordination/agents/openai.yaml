@@ -1,0 +1,7 @@
+interface:
+  display_name: "Cross-Session Coordination"
+  short_description: "Coordinate owners across independent sessions"
+  default_prompt: "Use $cross-session-coordination to coordinate the relevant owners and prepare concise, actionable handoffs within my authorized scope."
+
+policy:
+  allow_implicit_invocation: true
